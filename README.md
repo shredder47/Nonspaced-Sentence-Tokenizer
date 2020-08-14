@@ -11,16 +11,22 @@ Usage Example :
 --------------
 
 println(Tokenizer.splitSentenceToTokens("hellohowareyoubro"))
+
 println(Tokenizer.splitSentenceToTokens("howisitgoing?"))
+
 println(Tokenizer.splitSentenceToTokens("whatisyourname?"))
+
 println(Tokenizer.splitSentenceToTokens("enemyatthegates"))
 
 Output
 ------
 
 List(hello, how, are, you, bro)
+
 List(how, is, it, going, ?)
+
 List(what, is, your, name, ?)
+
 List(enemy, at, the, gates)
 
 
