@@ -1,5 +1,5 @@
 #split words without space #split words cluttered together #split sentence without spaces
-"mynameisshredder" -> "my name is shredder" !!
+
 Nonspaced sentence Tokenizer! Tokenizes sentences which contains no spaces in between.
 
 Use case :
